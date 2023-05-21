@@ -12,21 +12,21 @@ Python seems to be the language of choice for schools, but it is not the easiest
 
 Python Example:
 
-if condition == True:
+ if condition == True:
 
     print("Success!")  # This code has to be 4 spaces or 1 tab from the margin, otherwise it errors
 
 Lua Example:
 
-if condition == true then
+ if condition == true then
 
     print("Success!") -- This code indented for human readability
 
-end                 -- end keyword used to delineate all code blocks, including functions
+ end                 -- end keyword used to delineate all code blocks, including functions
 
 This also works without error:
 
-if condition == true then print("Success!") end
+ if condition == true then print("Success!") end
 
 Try that in Python!
 
